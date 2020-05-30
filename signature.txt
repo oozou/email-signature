@@ -1,5 +1,5 @@
 Best regards,
 
-{firstName} {lastName} | {jobtitle}
+{name} | {jobtitle}
 {companyPhone}
 oozou.com
